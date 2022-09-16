@@ -1,3 +1,9 @@
+# tthoraldson fork of FSDL 2022
+### Goals
+- 
+
+
+Begin original README
 # 🥞 Full Stack Deep Learning Fall 2022 Labs
 
 Welcome!
